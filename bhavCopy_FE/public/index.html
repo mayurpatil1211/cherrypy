@@ -28,7 +28,7 @@
         
         <form class="navbar-form navbar-left" ng-submit="searchCompany()">
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Company Name" style="border-radius: 0px; color: #ffffff;" ng-model="search_query">
+          <input type="text" class="form-control" placeholder="Company Name" style="border-radius: 0px; color: #000;" ng-model="search_query">
         </div>
         <button type="submit" class="btn btn-primary search_btn">Search</button>
       </form>
@@ -45,7 +45,7 @@
 
 <div class="col-md-12 text-center" ng-if="result_success==false">
  <div class="spinner"></div>
- <h2 style="color: #fff;">Loading</h2>
+ <h2 style="color: #00dcff;">Loading</h2>
 </div>
 
 <div class="container" ng-if="result_success==true">
