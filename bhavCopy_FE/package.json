@@ -1,0 +1,16 @@
+{
+  "name": "sunline-web",
+  "version": "1.0.0",
+  "description": "Hardware Store website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayur Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  }
+}

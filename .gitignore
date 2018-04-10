@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+bhavCopy_BE/env/*
+bhavCopy_FE/node_modules/*
