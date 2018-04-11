@@ -1,5 +1,4 @@
 html { 
-  /*background: url(../images/bg3.jpg) no-repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -50,10 +49,10 @@ html {
 }*/
 
 table.table-bordered{
-    border:1px solid #94949487;
-    margin-top:20px;
-    background-color: #8c8b8b61;
-    color: #0fa6e4;
+    border: 1px solid #94949487;
+    margin-top: 20px;
+    background-color: #8c8b8b00;
+    color: #047abf;
   }
 table.table-bordered > thead > tr > th{
     border:1px solid #94949487;
